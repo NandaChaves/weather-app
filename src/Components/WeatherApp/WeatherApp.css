@@ -128,4 +128,8 @@
     .data-container > div:first-child{
         padding: 0 60px 0 0;
     }
+
+     .top-bar input,.search-icon{
+          height:58px;
+      }
   }
